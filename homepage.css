@@ -1,0 +1,98 @@
+body {
+	background-color: #f2e8e8;
+	/*background-image: url(Images/wallpaper1.jpg);*/
+	margin: 0;
+}
+
+
+.header {
+	background-color: white /*#595757*/;
+	margin: 0;
+}
+
+.header img{
+	width: 50%;
+	height: 150px;
+	border:0;
+}
+
+/*.header h1 {
+	text-align: left;
+	display: inline-block;
+	width: 50%;
+	font-family: arial;
+	padding: 50px;
+	color: #E0D9D9;
+	margin: 0;
+}
+
+.header div {
+	text-align: right;
+	display: inline-block;
+	padding-left: 400px;
+	color: #E0D9D9;
+}*/
+
+/*ul{
+	position: sticky;
+	top: 10px;	
+	background-color: #595757;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	overflow: hidden;
+}
+
+
+li a{
+	font-family: sans-serif;
+	color: #E0D9D9;
+	float: left;
+	display: block;
+	padding: 15px;
+	text-decoration: none;
+}
+
+.nav_right li{
+	float: right;
+}
+
+li a:hover{
+	background-color: #423838;
+}*/
+
+.div_ {
+	/*margin-top: 50px;
+	margin-bottom: 50px;*/
+	/*background-color: #f2e8e8;*/
+	background-image: url(Images/wallpaper3.jpg);
+	height: 500px;
+	padding-left: 450px;
+}
+
+
+
+
+.coyright {
+	text-align: center;
+	font-family: arial;
+	background-color: #000;
+	font-size: 150%;
+	height: 150px;
+	line-height: 150px;
+	color: grey;
+}
+
+.div1 .choice_button {
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-top: 350px;
+    cursor: pointer;
+}
